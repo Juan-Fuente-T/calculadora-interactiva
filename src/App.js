@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import freecodecampLogo from './imagenes/freecodecamp-logo.png';
+import freecodecampLogo from './imagenes/juan_fuente_logo.png';
 import Boton from './componentes/Boton.jsx';
 import Pantalla from './componentes/Pantalla.jsx';
 import BotonClear from './componentes/BotonClear';
