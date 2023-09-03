@@ -1,70 +1,54 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculadora Gráfica Interactiva
+### ¡Bienvenido a nuestra Calculadora Gráfica e Interactiva! 
 
-## Available Scripts
+Esta aplicación web te permite realizar operaciones matemáticas básicas de manera sencilla y eficiente. A continuación, encontrarás toda la información necesaria para comenzar a utilizarla y sacar el máximo provecho de sus funciones.
 
-In the project directory, you can run:
+## Captura de pantalla
 
-### `npm start`
+![msg-337637371-26307](https://github.com/Juan-Fuente-T/calculadora-interactiva-React/assets/127140423/8ae28b3d-e869-43e6-b71f-6b584ff7c17a)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Acerca de la Aplicación
+La Calculadora Gráfica e Interactiva es una herramienta diseñada para simplificar tus cálculos matemáticos. Con una interfaz intuitiva y amigable, podrás realizar operaciones de suma, resta, multiplicación y división de forma rápida y precisa.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Cómo Utilizar la Calculadora
+Para empezar a utilizar nuestra Calculadora Gráfica, sigue estos simples pasos:
 
-### `npm test`
+- Acceso a la Aplicación: Abre tu navegador web y accede a la Calculadora Gráfica en mi web siten **juanfuente.ovh**.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Interfaz de Usuario: Una vez que la aplicación esté cargada en tu navegador, verás una interfaz limpia y fácil de usar con botones numéricos del 0 al 9, ".", "=", y operadores básicos (+, -, *, /).
 
-### `npm run build`
+- Realizar Operaciones: Utiliza los botones numéricos y operadores en la interfaz para introducir tus operaciones matemáticas.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Visualización de Resultados: Los resultados de tus cálculos se mostrarán en la pantalla principal de la calculadora en tiempo real.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Instalación Local (Opcional)
+Si deseas ejecutar la Calculadora Gráfica en tu propio entorno local, sigue estos pasos:
 
-### `npm run eject`
+- Clonar el Repositorio: Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
+ 
+### git clone https://github.com/Juan-Fuente-T/calculadora-interactiva-React
+- Instalar Dependencias: Navega hasta la carpeta del proyecto y ejecuta el siguiente comando para instalar las dependencias necesarias:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### npm install
+- Iniciar la Aplicación: Una vez que las dependencias estén instaladas, ejecuta el siguiente comando para iniciar la aplicación en el puerto 3000:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### npm start
+- Acceso Local: Abre tu navegador web y accede a la aplicación en la siguiente dirección:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### http://localhost:3000.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Problemas Comunes
+Si experimentas algún problema mientras utilizas la aplicación, aquí tienes algunas soluciones:
 
-## Learn More
+- Resultados Incorrectos: Asegúrate de introducir las operaciones correctamente y en el orden deseado.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Errores de Punto Decimal: Utiliza el botón "." para introducir decimales en tus números.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Borrar Operaciones: Para borrar una operación, simplemente presiona el botón "C".
 
-### Code Splitting
+## Feedback y Soporte
+Estoy comprometido a mejorar la Calculadora Gráfica Interactiva. Si tienes sugerencias, comentarios o encuentras algún problema, no dudes en contactarnos a través de cualquiera de los canales de https://juanfuente.ovh. Tu opinión es muy importante para nosotros.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**¡Espero que disfrutes utilizando la Calculadora Gráfica Interactiva y que te sea de gran utilidad en tus cálculos matemáticos!**
